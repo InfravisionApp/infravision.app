@@ -113,11 +113,9 @@
     <div class="">
       <div class="container rounded-lg px-10 mx-auto py-16 pb-8 text-center">
         <h2 class="mb-8">Signup for Updates</h2>
-
         <div class="w-4/5 mx-auto mb-8">
           <p class="mb-8">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis,
-            voluptatum. Quam, deleniti nulla.
+            Coming Soon
           </p>
           <form action="#">
             <div class="flex flex-col sm:flex-row">

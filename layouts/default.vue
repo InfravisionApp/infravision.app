@@ -24,7 +24,7 @@
         <ul class="flex items-center">
           <li class="mr-8">
             <a
-              href="https://github.com/infravision"
+              href="https://github.com/InfravisionApp"
               target="_blank"
               class="text-white hover:text-gray-400"
             >
@@ -34,7 +34,7 @@
 
           <li class="mr-8">
             <a
-              href="https://twitter.com/infravision"
+              href="https://twitter.com/infravisionapp"
               target="_blank"
               class="text-white hover:text-gray-400"
             >
